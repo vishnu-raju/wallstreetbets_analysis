@@ -28,7 +28,7 @@ The csv file that serves as the data for this analysis can be found [here](https
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://raju-vishnu.medium.com/r-wallstreetbets-the-subreddit-that-annoyed-the-hedge-funds-ee7f61871bc7).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
