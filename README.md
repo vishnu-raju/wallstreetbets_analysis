@@ -24,7 +24,7 @@ In this project, I wanted to understand the activity on the reddit group WallStr
 
 All of the analysis is done in the jupyter notebook.  Markdown cells were used to assist in walking through the thought process for the individual steps.  
 
-The csv file serves as the data for the analysis.
+The csv file that serves as the data for this analysis can be found [here](https://www.kaggle.com/unanimad/reddit-rwallstreetbets).
 
 ## Results<a name="results"></a>
 
